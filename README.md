@@ -18,10 +18,14 @@ Backend Spring boot.
 
 - Springboot - backend with java
 - MySql - DB
-
+- React
+- chakra-ui
 
 ## Document - POSTMAN
 https://documenter.getpostman.com/view/21096223/UzQuQ67o
 
 ## Heroku - Link
 https://raqami-contact-keeper.herokuapp.com
+
+## netlify - Link
+https://raqami.netlify.app/
